@@ -1,0 +1,14 @@
+{
+  "name": "chrome-markdown-linker",
+  "version": "1.0.2",
+  "description": "Add the, \"Me Talk Pretty\" ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.7.0"
+  }
+}
